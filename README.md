@@ -10,5 +10,5 @@ keluar dari akun (log out):pengguna dapat keluar dari akun mereka untuk mengamnk
 *menambahkan album:pengguna dapat membuat album foto untuk mengorganisir gambar-gambar mereka.
 *menambahkan komentar:pengguna dapat memberikan komentar pada foto-foto yang telah di unggah.
 *menghapus komentar:pengguna dapat menghapus komentar yang telah mereka buat.
-
+https://github.com/tiarahafsari/projektiara/blob/main/Screenshot%202024-04-25%20at%2018-24-19%20Halaman%20Landing.png
 
